@@ -17,5 +17,6 @@ import_tables:
   - THUOCL_medical
   - THUOCL_poem
   - sogou_new_words
+  - moegirl
   - zhwiki
   - huayu
